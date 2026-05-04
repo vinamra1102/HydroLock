@@ -236,8 +236,3 @@ Web Notifications require:
 
 MIT — do whatever you want with it, just drink water.
 
----
-
-## Built With
-
-Built using [Bolt](https://bolt.new) — AI-powered full-stack web app builder.
